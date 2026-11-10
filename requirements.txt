@@ -1,0 +1,6 @@
+
+
+Flask
+PyMuPDF
+sentence-transformers
+numpy
