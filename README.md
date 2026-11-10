@@ -31,14 +31,11 @@ SmartApply/
 │
 ├── app.py
 ├── requirements.txt
-│
 ├── templates/
 │   └── index.html
-│
 ├── static/
 │   ├── style.css
 │   └── script.js
-│
 ├── .gitignore
 └── README.md
 ```
@@ -80,9 +77,7 @@ python app.py
 
 Open your browser and visit:
 
-```text
-http://127.0.0.1:5000
-```
+`http://127.0.0.1:5000`
 
 ## 🚀 How It Works
 
@@ -115,16 +110,24 @@ http://127.0.0.1:5000
 - Resume builder functionality.
 - More advanced AI-based job recommendations.
 
-## 🤝 Contributing
+## 🤝 Contribute & Grow Together
 
-Contributions are welcome!
+SmartApply is an open-source project built to make career opportunities more accessible.
+
+We welcome developers, students, designers, and contributors from around the world to join us in improving SmartApply.
+
+Whether you're fixing bugs, adding features, improving the UI, or sharing ideas, every contribution matters.
+
+**Our Vision:** Build a powerful platform that helps thousands of users understand their skills, improve their resumes, and discover better career opportunities.
+
+Let's build something meaningful together!
 
 1. Fork this repository.
 2. Create a new branch.
 3. Make your changes.
 4. Submit a Pull Request.
+5. Help us make SmartApply better for everyone!
 
-SmartApply – Analyze Your Resume. Discover Your Opportunities
 ---
 
-**SmartApply – Analyze Your Resume. Discover Your Opportunities.**
+**SmartApply – Analyze Your Resume. Unlock Your Potential. Shape Your Future.**
